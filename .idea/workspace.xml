@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9f4f190-19a7-4dc7-a643-f28f854f85f8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bai Post.html" afterPath="$PROJECT_DIR$/bai Post.html" />
-    </list>
+    <list default="true" id="b9f4f190-19a7-4dc7-a643-f28f854f85f8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -39,9 +37,12 @@
       <file leaf-file-name="bai Post.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bai Post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2755">
-              <caret line="148" column="57" lean-forward="false" selection-start-line="148" selection-start-column="53" selection-end-line="148" selection-end-column="57" />
-              <folding />
+            <state relative-caret-position="67">
+              <caret line="324" column="50" lean-forward="false" selection-start-line="324" selection-start-column="50" selection-end-line="324" selection-end-column="50" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -222,16 +223,15 @@
       <workItem from="1502851528405" duration="20688000" />
       <workItem from="1502938348428" duration="1641000" />
       <workItem from="1505747819293" duration="3876000" />
-      <workItem from="1505782611303" duration="855000" />
+      <workItem from="1505782611303" duration="966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108876000" />
+    <option name="totallyTimeSpent" value="108987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="733" width="1368" height="804" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17498139" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -239,7 +239,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -561,9 +561,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bai Post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2755">
-          <caret line="148" column="57" lean-forward="false" selection-start-line="148" selection-start-column="53" selection-end-line="148" selection-end-column="57" />
-          <folding />
+        <state relative-caret-position="67">
+          <caret line="324" column="50" lean-forward="false" selection-start-line="324" selection-start-column="50" selection-end-line="324" selection-end-column="50" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
